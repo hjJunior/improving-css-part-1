@@ -1,0 +1,23 @@
+{
+  "name": "improving-css-part-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "node-sass sass/main.scss css/style.css -w",
+    "run:server": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjJunior/improving-css-part-1.git"
+  },
+  "author": "Helio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjJunior/improving-css-part-1/issues"
+  },
+  "homepage": "https://github.com/hjJunior/improving-css-part-1#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
