@@ -28,3 +28,6 @@ $card-height: 52rem;
 $card-yellow-linear-gradient: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark);
 $card-green-linear-gradient: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
 $card-blue-linear-gradient: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark);
+
+// Shapes
+$shape-rounded-circle: circle(50% at 50% 50%);
